@@ -19,7 +19,7 @@
     }
     ```
     - Response  :
-    ```json
+    ```
     {
     "id": <id>,
     "message": "User berhasil dibuat"
