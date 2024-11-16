@@ -49,11 +49,11 @@
     "users": [
         {
             "id": 1,
-            "username": "user"
+            "username": "user1"
         },
         {
             "id": 2,
-            "username": "user1"
+            "username": "user2"
         }
       ]
     }
