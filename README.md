@@ -6,7 +6,7 @@
    - Response   :
    ```json
     {
-    "message": "Selamat! Anda berhasil masuk API, semangat debug"
+    "message": "Selamat! Anda berhasil masuk API, semangat testing"
     } 
    
 2. **POST /register**
