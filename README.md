@@ -1,4 +1,4 @@
-# RESTful API for OTI Backend Oprec
+# RESTful API Brief Documentation for OTI Backend Oprec
 
 ## API Endpoints
 1. **GET /**
