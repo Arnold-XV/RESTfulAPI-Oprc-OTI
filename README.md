@@ -4,11 +4,11 @@
 1. **GET /**
    - Deskripsi  : Tes Run API.
    - Response   :
-     ```json
+   ```json
     {
     "message": "Selamat! Anda berhasil masuk API, semangat debug"
     } 
-     ```
+   
 2. **POST /register**
     - Deskripsi : Registrasi user baru dan mendapat ID.
     - Body (raw):
@@ -60,7 +60,7 @@
     ```
 5. **DEL /delete/<int:id>**
     - Deskripsi : Hapus user dengan ID user.
-    - Authorization Bearer Token : <token>
+    - Authorization Bearer Token: <token>
     - Response :
     ```json
     {
